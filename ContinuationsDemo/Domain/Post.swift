@@ -4,6 +4,7 @@
 //
 //  Created by Abraham Gonzalez Puga on 19/02/26.
 //
+import Foundation
 
 struct Post {
     let id: Int

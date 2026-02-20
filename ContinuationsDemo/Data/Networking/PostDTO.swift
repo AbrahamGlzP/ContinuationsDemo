@@ -5,7 +5,7 @@
 //  Created by Abraham Gonzalez Puga on 19/02/26.
 //
 
-struct PostDTO {
+struct PostDTO: Decodable {
     let id: Int
     let title: String
     let body: String
